@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a602c452.css",
+    "main.js": "/static/js/main.c6177b78.js",
+    "static/js/453.db6c6aa2.chunk.js": "/static/js/453.db6c6aa2.chunk.js",
+    "static/media/wuat_logo.png": "/static/media/wuat_logo.0d7012d34bf73198731d.png",
+    "index.html": "/index.html",
+    "main.a602c452.css.map": "/static/css/main.a602c452.css.map",
+    "main.c6177b78.js.map": "/static/js/main.c6177b78.js.map",
+    "453.db6c6aa2.chunk.js.map": "/static/js/453.db6c6aa2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a602c452.css",
+    "static/js/main.c6177b78.js"
+  ]
+}
